@@ -23,4 +23,3 @@ Note; Both type of tests can be ran by running as junit tests
  or by running maven clean install
 
 Note: testing can also be done via swagger. http://localhost:8081/flyHigh/swagger-ui.html
-chnaged
